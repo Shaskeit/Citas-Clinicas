@@ -1,0 +1,16 @@
+# Ignorar carpetas de compilación
+/out/
+*.class
+
+# Ignorar configuraciones específicas de IntelliJ
+.idea/
+*.iml
+
+# Ignorar archivos de datos del sistema
+db/*.json
+
+# Ignorar backups o temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
